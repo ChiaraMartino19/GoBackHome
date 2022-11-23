@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5bfa7baa23136a94d87f9aa2e14f13b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vollkorn SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ea8e38000a6da7e4a880adc02f0d3e86, type: 3}
+  - {fileID: 12800000, guid: 0adfac9b456529049b8baba0a003f0ad, type: 3}
+  - {fileID: 12800000, guid: 04986cf335069df4c8194872a9bb2e34, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
