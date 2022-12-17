@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/GoBackHome.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Options.unity
-    guid: 3be45a1dfd17c7040b956e0995e8ea3b
+    path: Assets/Scenes/Maynard.unity
+    guid: e6aab537545827f4ea9484dddc293299
   - enabled: 1
-    path: Assets/Scenes/Credits.unity
-    guid: f2e2391567801b146b2ed1250a0ae2b4
+    path: Assets/Scenes/Dead.unity
+    guid: 05fb128c6356e0e4bbc8455915c1cdcf
   - enabled: 1
-    path: Assets/Scenes/Death.unity
-    guid: 404b975102042504e944bcc00c8b3341
+    path: Assets/Scenes/Win.unity
+    guid: 07b466a168826fa40822346dc3d7922e
   m_configObjects: {}

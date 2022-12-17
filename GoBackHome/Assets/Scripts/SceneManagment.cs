@@ -6,6 +6,12 @@ using UnityEngine.UI;
 
 public class SceneManagment : MonoBehaviour
 {
+
+     void Start()
+    {
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
+    }
     public void PlayGame()
     {
         SceneManager.LoadScene("GoBackHome");
@@ -21,14 +27,15 @@ public class SceneManagment : MonoBehaviour
         SceneManager.LoadScene("Menu");
     }
 
-    public void Options()
+
+    private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene("Options");
+        SceneManager.LoadScene("Maynard");
     }
 
 
-    public void Credits()
-    {
-        SceneManager.LoadScene("Credits");
-    }
+
+
+
+
 }
